@@ -68,10 +68,10 @@ Price vs Revenue
 
 # Dependencies Used
 
-- NumPy — numerical operations
-- Pandas — dataset cleaning + manipulation
-- Matplotlib & Seaborn — visualizations
-- Statsmodels — log–log regression for elasticity estimation
+- `NumPy` — numerical operations
+- `Pandas` — dataset cleaning + manipulation
+- `Matplotlib & Seaborn` — visualizations
+- `Statsmodels` — log–log regression for elasticity estimation
 
 # How to Run the Project
 
