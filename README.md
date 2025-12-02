@@ -1,4 +1,4 @@
-# Price-Demand-Sensitivity-Analysis
+## Price-Demand-Sensitivity-Analysis
 
 This project focuses on analyzing how price influences consumer demand using real-world retail scanner data. The goal is to measure Price Elasticity of Demand (PED), study demand patterns, and generate insights for optimal pricing decisions grounded in microeconomic theory.
 
